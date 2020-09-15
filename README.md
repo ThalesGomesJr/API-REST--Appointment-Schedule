@@ -1,4 +1,4 @@
-# Projeto API RESTful - Clinic Appointment Scheduling System 
+# Projeto API RESTful - Clinic Appointment Scheduling System. 
 
 > Projeto em Desenvolvimento!
 
