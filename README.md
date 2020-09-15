@@ -10,5 +10,5 @@
 - Java.
 - Spring Boot.
 - Spring Data JPA.
-- Hibernate
-- H2 Database Engine
+- Hibernate.
+- H2 Database Engine.
